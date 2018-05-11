@@ -1,0 +1,6 @@
+To run:
+
+```
+$ ./gradlew bootRun
+```
+
